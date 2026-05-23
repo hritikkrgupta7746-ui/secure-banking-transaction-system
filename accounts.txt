@@ -1,0 +1,2 @@
+A/C No. : 10001 | Name : Hrithik Kumar | Balance : 29000.00 | A/C Type : Saving | Password : ritik7746 | Status : ACTIVE
+A/C No. : 10002 | Name : Hrithik Kr Gupta | Balance : 6900000.00 | A/C Type : Saving | Password : hrithik7746 | Status : ACTIVE

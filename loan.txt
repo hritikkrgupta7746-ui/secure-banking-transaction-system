@@ -1,0 +1,2 @@
+LoanID : 1041 | A/C : 10001 | Amount : 10000.00 | Status : APPROVED
+LoanID : 9467 | A/C : 10001 | Amount : 20000.00 | Status : PENDING

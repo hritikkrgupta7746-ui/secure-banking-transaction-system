@@ -1,0 +1,51 @@
+===============================
+Account Number     : 10001
+Name               : Hrithik Kumar
+Father Name        : Dinesh Sah
+DOB                : 08 09 2007
+Gender             : Male
+Mobile Number      : 6206156492 
+Email              : hritikkrgupta7746@gmail.com
+Address            : Sawreji
+Account Type       : Saving
+Initial Deposit    : 10000.00
+Nominee Name       : Guddi Devi
+Nominee Relation   : Mother
+Password           : ritik7746
+Security Question  : Red Rose Public School
+Created Date       : 18-05-2026
+Created Time       : 23:32:38
+===============================
+Account Number     : 10002
+Name               : Gupta
+Father Name        : Dinesh sah
+DOB                : 05 11 2012
+Gender             : male
+Mobile Number      : 7970988376 
+Email              : guptamadhu4867@gmail.com
+Address            : Sawreji
+Account Type       : Saving
+Initial Deposit    : 40000.00
+Nominee Name       : ritik
+Nominee Relation   : brother
+Password           : gupta
+Security Question  : RRPS
+Created Date       : 18-05-2026
+Created Time       : 23:34:31
+===============================
+Account Number     : 10002
+Name               : Hrithik Kr Gupta
+Father Name        : Dinesh Sah
+DOB                : 08 09 2007
+Gender             : Male
+Mobile Number      : 6206156492 
+Email              : hrithikkrgupta7746@gmail.com
+Address            : Sawreji
+Account Type       : Saving
+Initial Deposit    : 6900000.00
+Nominee Name       : Ritik
+Nominee Relation   : self
+Password           : hrithik7746
+Security Question  : RRPS
+Created Date       : 19-05-2026
+Created Time       : 23:58:48
